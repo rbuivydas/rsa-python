@@ -26,3 +26,5 @@ Encryption: $M^e$ mod q
 Decryption: $C^d$ mod q
 
 With encryption, the formula will convert the plaintext to ciphertext using the public key. As for decryption, the ciphertext will be converted to plaintext using the private key.
+
+# [Python Code](https://github.com/rbuivydas/rsa-python/blob/main/code.py)
